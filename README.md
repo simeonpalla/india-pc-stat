@@ -10,3 +10,9 @@
 <br>
 
 * Link - **_https://indiapcstats.herokuapp.com/_**
+
+---
+
+Due to high loading time (_run time error_) _Winner Party_ and _Runner Party_ maps are not displaying.
+<br>
+Currently working on to solve that issue
